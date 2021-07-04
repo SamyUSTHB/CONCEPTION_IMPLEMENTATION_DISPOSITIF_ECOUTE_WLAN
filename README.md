@@ -17,7 +17,7 @@
 
 <p align="center"> • Idée et Réalisation : HAMAÏDIA Samy </p>
 <p align="center"> • Encadrement : G.Yasmine </p>
-<p align="center"> • Jury : Bientôt </p>
+<p align="center"> • Jury : Mme BOUZIANE & Mme DJIDEL</p>
 <p align="center"> • Note : Bientôt </p>
 <p align="center"> • Projet Nº : GTR 200/2021 <b> </p>
 
