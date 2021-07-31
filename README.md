@@ -16,7 +16,7 @@
 
 
 <p align="center"> • Idée et Réalisation : HAMAÏDIA Samy </p>
-<p align="center"> • Encadrement : G.Yasmine </p>
+<p align="center"> • Encadrement : Mme G.Yasmine </p>
 <p align="center"> • Présidente Jury : Mme BOUZIANE</p>
 <p align="center"> • Membre Jury : Mme DJIDEL</p>
 <p align="center"> • Note : 17/20 </p>
