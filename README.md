@@ -80,7 +80,3 @@ Dans le cadre de l'écoute et du cyber-espionnage de réseaux et des systèmes i
 </details>
 
 ---
-
-<p align="center">
-  <a href="https://paypal.me/TheSamDesigner"> SOUTENIR LE PROJET ?</a>
-</p>
