@@ -5,7 +5,7 @@
 <p align="center"> Filière : Informatique </p>
 <p align="center"> Spécialité : Génie des Télécommunications et Réseaux </p>
 <p align="center"> Projet de fin d'études intitulé: </p>
-<p align="center"> <b><i> CONCEPTION ET IMPLÉMENTATION D’UN DISPOSITIF D’ÉCOUTE SUR WLAN</i></b> </p>
+<p align="center">  CONCEPTION ET IMPLÉMENTATION D’UN DISPOSITIF D’ÉCOUTE SUR WLAN </p>
 
 <p align="center"> Idée et Réalisation : HAMAÏDIA Samy </p>
 <p align="center"> Encadrement : Mme G.Yasmine </p>
@@ -28,11 +28,10 @@
   
 <p align="center">Dans le cadre de l'écoute et du cyber-espionnage de réseaux et des systèmes informatiques, l'implémentation d'une solution physique est sans doute plus efficace qu'une solution logiciel sur le plan de la persistance, le contrôle et la furtivité, en s'appuyant sur des failles humaines, d'ignorance, d’insuffisance budgétaire, ressemblance d'équipements ou de défaillances orchestrées aux divers scénarios possibles, concrétisé par un mini-serveur UNIX, doté d’une panoplie d’option physique et logiciel adaptable aux circonstances, basé physiquement sur un nano-ordinateur monocarte à processeur ARM, avec la possibilité de lui fournir une connectivité et alimentation propre en plus de l'équipement en question.</p>
   
-  <br>
   <p> </p>
  
 <h2>ORGANISATION</h2>
-  <img src="https://raw.githubusercontent.com/SamyUSTHB/CONCEPTION_IMPLEMENTATION_DISPOSITIF_ECOUTE_WLAN/main/IMG/ORG.jpg" alt="ORGANISATION">
+  <img src="https://raw.githubusercontent.com/SamyUSTHB/CONCEPTION_IMPLEMENTATION_DISPOSITIF_ECOUTE_WLAN/main/IMG/ORG.png" alt="ORGANISATION">
 <p align="center"><i> Organisation des différents programmes et scripts </i> </p>
 
 <h2>CONTOURNEMENT ET EXFILTRATION DE CLÉS SSL/TLS SOUS WINDOWS <br/> (ÉXPERIENCE PERSONNEL) </h2>
