@@ -32,7 +32,7 @@
   <p> </p>
  
 <h2>ORGANISATION</h2>
-  <img width="600" src="https://raw.githubusercontent.com/SamyUSTHB/CONCEPTION_IMPLEMENTATION_DISPOSITIF_ECOUTE_WLAN/main/IMG/ORG.png" alt="ORGANISATION">
+  <img src="https://raw.githubusercontent.com/SamyUSTHB/CONCEPTION_IMPLEMENTATION_DISPOSITIF_ECOUTE_WLAN/main/IMG/ORG.jpg" alt="ORGANISATION">
 <p align="center"><i> Organisation des différents programmes et scripts </i> </p>
 
 <h2>CONTOURNEMENT ET EXFILTRATION DE CLÉS SSL/TLS SOUS WINDOWS <br/> (ÉXPERIENCE PERSONNEL) </h2>
