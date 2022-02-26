@@ -11,3 +11,9 @@ owner: Samy HAMAÏDIA
 year: 2021
 
 google-site-verification: googlef7b445c2889ae57a.html
+
+# Extra settings
+blog: on                 # Show blog tag and post list (on | off)
+avatar: on               # Show avatar (on | off)
+avatar_image: "https://lh5.googleusercontent.com/oy1ff1bxd6A7cKJjvWMqigqHELINtzkNM9C-e5YSMF6j_yUAzA96a6PLsG9rHYLUH2BnpjImoCRyaroXeoHmtdE=w1280"
+avatar_description: "Samy HAMAÏDIA"
