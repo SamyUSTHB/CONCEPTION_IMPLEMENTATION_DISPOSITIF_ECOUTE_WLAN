@@ -5,4 +5,4 @@
 <p align="center"> Filière : Informatique </p>
 <p align="center"> Spécialité : Génie des Télécommunications et Réseaux </p>
 <p align="center"> Projet de fin d'études intitulé </p>
-<H1 align="center"> <i> CONCEPTION ET IMPLÉMENTATION <br/> D’UN DISPOSITIF D’ÉCOUTE SUR WLAN </i> </h1>
+<p align="center"> <b><font size="20"><i> CONCEPTION ET IMPLÉMENTATION <br/> D’UN DISPOSITIF D’ÉCOUTE SUR WLAN </font></i></b> </p>
