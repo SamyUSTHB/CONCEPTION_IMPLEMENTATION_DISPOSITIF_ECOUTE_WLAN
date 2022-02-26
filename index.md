@@ -30,19 +30,19 @@
   <p> </p>
  
 <h2>ORGANISATION</h2>
-  <img src="https://raw.githubusercontent.com/SamyUSTHB/CONCEPTION_IMPLEMENTATION_DISPOSITIF_ECOUTE_WLAN/main/IMG/ORG.png" alt="ORGANISATION">
+  <img width="600" src="https://raw.githubusercontent.com/SamyUSTHB/CONCEPTION_IMPLEMENTATION_DISPOSITIF_ECOUTE_WLAN/main/IMG/ORG.png" alt="ORGANISATION">
 <p align="center"><i> Organisation des différents programmes et scripts </i> </p>
 
 <h2>CONTOURNEMENT ET EXFILTRATION DE CLÉS SSL/TLS SOUS WINDOWS <br/> (ÉXPERIENCE PERSONNEL) </h2>
-  <img  width="700" src="https://raw.githubusercontent.com/SamyUSTHB/CONCEPTION_IMPLEMENTATION_DISPOSITIF_ECOUTE_WLAN/main/IMG/SSLBYPASS.png" alt="SSL/TLS BYPASS">
+  <img  width="600" src="https://raw.githubusercontent.com/SamyUSTHB/CONCEPTION_IMPLEMENTATION_DISPOSITIF_ECOUTE_WLAN/main/IMG/SSLBYPASS.png" alt="SSL/TLS BYPASS">
   <br/>
 <p align="center"><i> Approche d'exfiltration de clés de chiffrement sous Windows </i> </p>
 
 <h2>INJECTION PHYSIQUE</h2>
-  <img width="700" src="https://raw.githubusercontent.com/SamyUSTHB/CONCEPTION_IMPLEMENTATION_DISPOSITIF_ECOUTE_WLAN/main/IMG/PHYSICAL%20BACKDOOR.JPG" alt="PHYSICAL BACKDOOR">
+  <img width="600" src="https://raw.githubusercontent.com/SamyUSTHB/CONCEPTION_IMPLEMENTATION_DISPOSITIF_ECOUTE_WLAN/main/IMG/PHYSICAL%20BACKDOOR.JPG" alt="PHYSICAL BACKDOOR">
 <p align="center"><i> Backdoor physique intégré a un équipement réseau </i> </p>
 
 <h2>BÊTISIER</h2>
-  <img width="700" src="https://raw.githubusercontent.com/SamyUSTHB/CONCEPTION_IMPLEMENTATION_DISPOSITIF_ECOUTE_WLAN/main/IMG/Betisier1.JPG" alt="BETISIER">
+  <img width="600" src="https://raw.githubusercontent.com/SamyUSTHB/CONCEPTION_IMPLEMENTATION_DISPOSITIF_ECOUTE_WLAN/main/IMG/Betisier1.JPG" alt="BETISIER">
 <p align="center"><i> Tout ou rien! </i> </p>
 </center>
