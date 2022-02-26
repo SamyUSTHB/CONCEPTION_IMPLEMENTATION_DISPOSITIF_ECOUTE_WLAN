@@ -8,7 +8,6 @@
 <p align="center"> <b><i> CONCEPTION ET IMPLÉMENTATION 
   D’UN DISPOSITIF D’ÉCOUTE SUR WLAN</i></b> </p>
 
-
 <p align="center"> Idée et Réalisation : HAMAÏDIA Samy </p>
 <p align="center"> Encadrement : Mme G.Yasmine </p>
 <p align="center"> Présidente Jury : Mme BOUZIANE</p>
