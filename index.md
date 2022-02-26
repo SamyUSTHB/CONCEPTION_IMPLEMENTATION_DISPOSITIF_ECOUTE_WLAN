@@ -12,7 +12,8 @@
 <p align="center"> Présidente Jury : Mme BOUZIANE</p>
 <p align="center"> Membre Jury : Mme DJIDEL</p>
 <p align="center"> Note : 17/20 </p>
-<p align="center"> Projet Nº : 200/2021 <b>
+<p align="center"> Projet Nº : 200/2021 
+  
   <br>
 <p align="center">|
   <a href="https://github.com/SamyUSTHB/CONCEPTION_IMPLEMENTATION_DISPOSITIF_ECOUTE_WLAN/blob/main/200-2021.pdf"> DOCUMENT</a> |
