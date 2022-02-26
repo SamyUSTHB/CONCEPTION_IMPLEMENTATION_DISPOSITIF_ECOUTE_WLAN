@@ -27,7 +27,7 @@
 
 <h2>RÉSUMÉ</h2>
   
-<p align="center"><i>Dans le cadre de l'écoute et du cyber-espionnage de réseaux et des systèmes informatiques, l'implémentation d'une solution physique est sans doute plus efficace qu'une solution logiciel sur le plan de la persistance, le contrôle et la furtivité, en s'appuyant sur des failles humaines, d'ignorance, d’insuffisance budgétaire, ressemblance d'équipements ou de défaillances orchestrées aux divers scénarios possibles, concrétisé par un mini-serveur UNIX, doté d’une panoplie d’option physique et logiciel adaptable aux circonstances, basé physiquement sur un nano-ordinateur monocarte à processeur ARM, avec la possibilité de lui fournir une connectivité et alimentation propre en plus de l'équipement en question.</i></p>
+<p align="center">Dans le cadre de l'écoute et du cyber-espionnage de réseaux et des systèmes informatiques, l'implémentation d'une solution physique est sans doute plus efficace qu'une solution logiciel sur le plan de la persistance, le contrôle et la furtivité, en s'appuyant sur des failles humaines, d'ignorance, d’insuffisance budgétaire, ressemblance d'équipements ou de défaillances orchestrées aux divers scénarios possibles, concrétisé par un mini-serveur UNIX, doté d’une panoplie d’option physique et logiciel adaptable aux circonstances, basé physiquement sur un nano-ordinateur monocarte à processeur ARM, avec la possibilité de lui fournir une connectivité et alimentation propre en plus de l'équipement en question.</p>
   
   <br>
  
