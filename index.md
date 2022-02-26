@@ -1,4 +1,4 @@
-<p align="center"> <img width="400" src="https://raw.githubusercontent.com/SamyUSTHB/CONCEPTION_IMPLEMENTATION_DISPOSITIF_ECOUTE_WLAN/main/IMG/USTHB.png" alt="USTHB"> </p>
+<p align="center"> <img width="300" src="https://raw.githubusercontent.com/SamyUSTHB/CONCEPTION_IMPLEMENTATION_DISPOSITIF_ECOUTE_WLAN/main/IMG/USTHB.png" alt="USTHB"> </p>
 <p align="center"> Université des Sciences et de la Technologie Houari Boumediene </p>
 <p align="center"> Faculté d'Électronique et d'Informatique </p>
 <p align="center"> Département d'Informatique </p>
