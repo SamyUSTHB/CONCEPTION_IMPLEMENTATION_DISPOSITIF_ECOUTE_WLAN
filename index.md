@@ -15,12 +15,12 @@
 <p align="center"> Projet Nº : 200/2021 
   
   <br><br>
-<p align="center">|
-  <a href="https://www.researchgate.net/publication/353601152_Conception_et_Implementation_d'un_dispositif_d'ecoute_sur_WLAN"> DOCUMENT</a> |
-  <a href="https://github.com/SamyUSTHB/CONCEPTION_IMPLEMENTATION_DISPOSITIF_ECOUTE_WLAN"> CODE</a> | 
-  <a href="https://youtu.be/8Fv7tXQc5Cs"> PoC <img width="30" src="https://upload.wikimedia.org/wikipedia/commons/9/90/Logo_of_YouTube_%282013-2015%29.svg" alt="PoC"></a> |
-  <a href="https://github.com/SamyUSTHB/CONCEPTION_IMPLEMENTATION_DISPOSITIF_ECOUTE_WLAN"> Q/R</a> |
-  <a href="mailto:HAMAIDIA.USTHB@gmail.com"> CONTACT</a> |
+<p align="center">☆
+  <a href="https://www.researchgate.net/publication/353601152_Conception_et_Implementation_d'un_dispositif_d'ecoute_sur_WLAN"> DOCUMENT</a> ☆
+  <a href="https://github.com/SamyUSTHB/CONCEPTION_IMPLEMENTATION_DISPOSITIF_ECOUTE_WLAN"> CODE</a> ☆ 
+  <a href="https://youtu.be/8Fv7tXQc5Cs"> PoC <img width="30" src="https://upload.wikimedia.org/wikipedia/commons/9/90/Logo_of_YouTube_%282013-2015%29.svg" alt="PoC"></a> ☆
+  <a href="https://github.com/SamyUSTHB/CONCEPTION_IMPLEMENTATION_DISPOSITIF_ECOUTE_WLAN"> Q/R</a> ☆
+  <a href="mailto:HAMAIDIA.USTHB@gmail.com"> CONTACT</a> ☆
 </p>
   <br>
 <center>
