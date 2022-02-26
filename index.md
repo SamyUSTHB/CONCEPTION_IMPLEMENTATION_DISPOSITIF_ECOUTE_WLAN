@@ -5,15 +5,16 @@
 <p align="center"> Filière : Informatique </p>
 <p align="center"> Spécialité : Génie des Télécommunications et Réseaux </p>
 <p align="center"> Projet de fin d'études intitulé </p>
-<p align="center"> <b><font size="20"><i> CONCEPTION ET IMPLÉMENTATION <br/> D’UN DISPOSITIF D’ÉCOUTE SUR WLAN </font></i></b> </p>
+<p align="center"> <b><font size="10"><i> CONCEPTION ET IMPLÉMENTATION 
+  D’UN DISPOSITIF D’ÉCOUTE SUR WLAN </font></i></b> </p>
 
 
-<p align="center"> • Idée et Réalisation : HAMAÏDIA Samy </p>
-<p align="center"> • Encadrement : Mme G.Yasmine </p>
-<p align="center"> • Présidente Jury : Mme BOUZIANE</p>
-<p align="center"> • Membre Jury : Mme DJIDEL</p>
-<p align="center"> • Note : 17/20 </p>
-<p align="center"> • Projet Nº : 200/2021 <b> </p>
+<p align="center"> Idée et Réalisation : HAMAÏDIA Samy </p>
+<p align="center"> Encadrement : Mme G.Yasmine </p>
+<p align="center"> Présidente Jury : Mme BOUZIANE</p>
+<p align="center"> Membre Jury : Mme DJIDEL</p>
+<p align="center"> Note : 17/20 </p>
+<p align="center"> Projet Nº : 200/2021 <b> </p>
 
 ---
   
