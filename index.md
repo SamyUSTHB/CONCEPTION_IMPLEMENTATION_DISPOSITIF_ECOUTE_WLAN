@@ -15,8 +15,6 @@
 <p align="center"> Membre Jury : Mme DJIDEL</p>
 <p align="center"> Note : 17/20 </p>
 <p align="center"> Projet Nº : 200/2021 <b> </p>
-
----
   
 <p align="center">|
   <a href="https://github.com/SamyUSTHB/CONCEPTION_IMPLEMENTATION_DISPOSITIF_ECOUTE_WLAN/blob/main/200-2021.pdf"> DOCUMENT</a> |
@@ -26,8 +24,6 @@
   <a href="mailto:HAMAIDIA.USTHB@gmail.com"> CONTACT</a> |
 </p>
 
----
-
 <details align="center">
 <summary><i>RÉSUMÉ</i></summary>
   <br/>
@@ -36,16 +32,12 @@ Dans le cadre de l'écoute et du cyber-espionnage de réseaux et des systèmes i
   </p></i>
 </details>
 
----
-
 <details align="center">
 <summary><i>ORGANISATION</i></summary>
   <br/>
   <img src="https://github.com/SamyUSTHB/CONCEPTION_IMPLEMENTATION_DISPOSITIF_ECOUTE_WLAN/blob/main/IMG/ORG.png" alt="ORGANISATION">
 <p align="center"><i> Organisation des différents programmes et scripts </i> </p>
 </details>
-
----
 
 <details align="center">
 <summary><i>CONTOURNEMENT ET EXFILTRATION DE CLÉS SSL/TLS SOUS WINDOWS <br/> (ÉXPERIENCE PERSONNEL) </i></summary>
@@ -55,8 +47,6 @@ Dans le cadre de l'écoute et du cyber-espionnage de réseaux et des systèmes i
 <p align="center"><i> Approche d'exfiltration de clés de chiffrement sous Windows </i> </p>
 </details>
 
----
-
 <details align="center">
 <summary><i>INJECTION PHYSIQUE</i></summary>
   <br/>
@@ -64,13 +54,9 @@ Dans le cadre de l'écoute et du cyber-espionnage de réseaux et des systèmes i
 <p align="center"><i> Backdoor physique intégré a un équipement réseau </i> </p>
 </details>
 
----
-
 <details align="center">
 <summary><i>BÊTISIER</i></summary>
   <br/>
   <img width="500" src="https://github.com/SamyUSTHB/CONCEPTION_IMPLEMENTATION_DISPOSITIF_ECOUTE_WLAN/blob/main/IMG/Betisier1.JPG" alt="BETISIER">
 <p align="center"><i> Tout et rien! </i> </p>
 </details>
-
----
