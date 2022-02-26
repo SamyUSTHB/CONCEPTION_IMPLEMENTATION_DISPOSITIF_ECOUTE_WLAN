@@ -14,7 +14,7 @@
 <p align="center"> Membre Jury : Mme DJIDEL</p>
 <p align="center"> Note : 17/20 </p>
 <p align="center"> Projet Nº : 200/2021 <b>
-  
+  <br>
 <p align="center">|
   <a href="https://github.com/SamyUSTHB/CONCEPTION_IMPLEMENTATION_DISPOSITIF_ECOUTE_WLAN/blob/main/200-2021.pdf"> DOCUMENT</a> |
   <a href="https://github.com/SamyUSTHB/CONCEPTION_IMPLEMENTATION_DISPOSITIF_ECOUTE_WLAN"> CODE</a> | 
@@ -22,7 +22,7 @@
   <a href="https://github.com/SamyUSTHB/CONCEPTION_IMPLEMENTATION_DISPOSITIF_ECOUTE_WLAN"> Q/R</a> |
   <a href="mailto:HAMAIDIA.USTHB@gmail.com"> CONTACT</a> |
 </p>
-  
+  <br>
 <center>
   
 <h2>RÉSUMÉ</h2>
