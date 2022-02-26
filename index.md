@@ -27,31 +27,23 @@
   <br/>
 <i>Dans le cadre de l'écoute et du cyber-espionnage de réseaux et des systèmes informatiques, l'implémentation d'une solution physique est sans doute plus efficace qu'une solution logiciel sur le plan de la persistance, le contrôle et la furtivité, en s'appuyant sur des failles humaines, d'ignorance, d’insuffisance budgétaire, ressemblance d'équipements ou de défaillances orchestrées aux divers scénarios possibles, concrétisé par un mini-serveur UNIX, doté d’une panoplie d’option physique et logiciel adaptable aux circonstances, basé physiquement sur un nano-ordinateur monocarte à processeur ARM, avec la possibilité de lui fournir une connectivité et alimentation propre en plus de l'équipement en question.</i>
 
-<details align="center">
 <summary><i>ORGANISATION</i></summary>
   <br/>
   <img src="https://github.com/SamyUSTHB/CONCEPTION_IMPLEMENTATION_DISPOSITIF_ECOUTE_WLAN/blob/main/IMG/ORG.png" alt="ORGANISATION">
 <p align="center"><i> Organisation des différents programmes et scripts </i> </p>
-</details>
 
-<details align="center">
 <summary><i>CONTOURNEMENT ET EXFILTRATION DE CLÉS SSL/TLS SOUS WINDOWS <br/> (ÉXPERIENCE PERSONNEL) </i></summary>
   <br/>
   <img  src="https://github.com/SamyUSTHB/CONCEPTION_IMPLEMENTATION_DISPOSITIF_ECOUTE_WLAN/blob/main/IMG/SSLBYPASS.png" alt="SSL/TLS BYPASS">
   <br/>
 <p align="center"><i> Approche d'exfiltration de clés de chiffrement sous Windows </i> </p>
-</details>
 
-<details align="center">
 <summary><i>INJECTION PHYSIQUE</i></summary>
   <br/>
   <img width="500" src="https://github.com/SamyUSTHB/CONCEPTION_IMPLEMENTATION_DISPOSITIF_ECOUTE_WLAN/blob/main/IMG/PHYSICAL%20BACKDOOR.JPG" alt="PHYSICAL BACKDOOR">
 <p align="center"><i> Backdoor physique intégré a un équipement réseau </i> </p>
-</details>
 
-<details align="center">
 <summary><i>BÊTISIER</i></summary>
   <br/>
   <img width="500" src="https://github.com/SamyUSTHB/CONCEPTION_IMPLEMENTATION_DISPOSITIF_ECOUTE_WLAN/blob/main/IMG/Betisier1.JPG" alt="BETISIER">
 <p align="center"><i> Tout et rien! </i> </p>
-</details>
