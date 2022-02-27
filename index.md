@@ -1,5 +1,5 @@
 <meta name="google-site-verification" content="tSB8ipmX7bm46JKI43TbVW_nqXdGC2kPp94W18Y6v4Y" />
-<p align="center"> <img width="300" src="https://raw.githubusercontent.com/SamyUSTHB/CONCEPTION_IMPLEMENTATION_DISPOSITIF_ECOUTE_WLAN/main/IMG/USTHB.png" alt="USTHB"> </p>
+<p align="center"> <img width="350" src="https://raw.githubusercontent.com/SamyUSTHB/CONCEPTION_IMPLEMENTATION_DISPOSITIF_ECOUTE_WLAN/main/IMG/USTHB.png" alt="USTHB"> </p>
 <p align="center"> Université des Sciences et de la Technologie Houari Boumediene </p>
 <p align="center"> Faculté d'Électronique et d'Informatique </p>
 <p align="center"> Département d'Informatique </p>
